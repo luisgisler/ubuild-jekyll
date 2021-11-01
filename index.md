@@ -71,6 +71,10 @@ page_sections:
   slug: blocks
 - template: detail-content
   block: text-1
+  content: "<p>more detail content</p>"
+  headline: product 1
+- template: detail-content
+  block: text-1
   headline: Steps to Build a Site!
   content: <p>uBuild is an open-source Jekyll based demo that doubles as a builder
     tool inside the Forestry content manager.</p><ol><li><p><a href="https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll">Import
