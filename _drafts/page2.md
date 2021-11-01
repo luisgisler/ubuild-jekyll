@@ -1,5 +1,5 @@
 ---
-layout: post 1
+layout: default
 
 ---
 This is a simple default thing
